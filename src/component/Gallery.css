@@ -1,0 +1,48 @@
+.image{
+    background-image:url('https://i.ibb.co/9c9Qsn7/shutterstock-1154073754-3x.png');
+    width: 1130px;
+    height: 400px;
+    object-fit: contain;
+    background-size: cover;
+    margin-left: 130px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+.photos{
+  width: 242px;
+  height: 48px;
+  opacity: 0.8;
+  border-radius: 3px;
+  background-color: #ffffff;
+  margin-left: 850px;
+  margin-bottom: 10px;
+}
+.Gallery{
+width: 213px;
+height: 23px;
+font-family: Poppins;
+font-size: 16px;
+font-weight: 600;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.88;
+letter-spacing: normal;
+text-align: left;
+color: #192f60;
+text-decoration:none ;
+}
+.TITLE {
+    width: 298px;
+    height: 43px;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+    margin-left: 280px;
+    margin-bottom: 30px;
+  }

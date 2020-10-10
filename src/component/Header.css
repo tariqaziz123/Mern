@@ -1,0 +1,67 @@
+.block {
+    width: 100%;
+    height: 100px;
+    background-color:#ce0505;
+  }
+  .E {
+      width: 52px;
+      height: 60px;
+      background-color: #ffffff;
+      border-radius: 50%;
+      margin-left: 80px;
+    }
+  #Logo {
+      width: 32px;
+      height: 47px;
+      font-family: Poppins;
+      font-size: 33px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.52;
+      letter-spacing: normal;
+      text-align: left;
+      color: #eb2929;
+    }
+    
+    
+    .Login {
+      width: 43px;
+      height: 23px;
+      font-family: Poppins;
+      font-size: 16px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.56;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+      text-decoration:none;
+       }
+    .rectangle {
+      width: 181px;
+      height: 46px;
+      border-radius: 3px;
+      border: solid 1px #ffffff;
+      margin-left: 20px;
+      
+    }
+    .account {
+      width: 152px;
+      height: 23px;
+      font-family: Poppins;
+      font-size: 16px;
+      font-weight: 500;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.56;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+      text-decoration:none ;
+    } 
+    .bar{
+      text-align:right ;
+      margin-right: 50px;
+       } 
